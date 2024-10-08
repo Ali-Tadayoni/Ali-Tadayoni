@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🏄‍♂️ Ali Tadayoni
 Hi there! I'm a passionate Front-End Developer from Iran, with a strong interest in creating beautiful, user-friendly, and high-performance web applications. I started my front-end development journey six months ago and have since gained hands-on experience with modern web technologies like HTML, CSS, JavaScript, TypeScript, and React.I'm always excited to learn new technologies and work on interesting projects. Feel free to check out my repositories and connect with me!
 
 
