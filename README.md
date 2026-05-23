@@ -1,5 +1,8 @@
 # 🏄‍♂️ Ali Tadayoni
-Hi there! I'm a passionate Front-End Developer from Iran, with a strong interest in creating beautiful, user-friendly, and high-performance web applications. I'm always excited to learn new technologies and work on interesting projects. Feel free to check out my repositories and connect with me!
+Frontend Engineer with 2+ years of experience building scalable, rock-solid web applications.
+Skilled in developing modern frontend systems using React, Next.js, Vue.js, Nuxt.js, Typescript, and the modern
+JavaScript ecosystem, with hands-on involvement in complex dashboards, end-to-end testing, and customer-facing
+products and interfaces.
 
 
 # 💻 Tech Stack:
