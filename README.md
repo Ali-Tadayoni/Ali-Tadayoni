@@ -1,8 +1,13 @@
 # 🏄‍♂️ Ali Tadayoni
-Frontend Engineer with 2+ years of experience building scalable, rock-solid web applications.
-Skilled in developing modern frontend systems using React, Next.js, Vue.js, Nuxt.js, Typescript, and the modern
-JavaScript ecosystem, with hands-on involvement in complex dashboards, end-to-end testing, and customer-facing
-products and interfaces.
+I’m a Frontend Engineer passionate about building web applications with a forward-thinking mindset and a clear goal of becoming a full-stack engineer.
+
+My current stack includes React, Next.js, Vue.js, Nuxt.js, and TypeScript.
+
+I naturally stay curious and continuously improve my craft. Outside of work, I spend time learning new technologies, building side projects, and exploring AI-assisted development tools and workflows.
+
+🌐 Website: [https://alitadayoni.com/](https://alitadayoni.com)
+💼 LinkedIn: [https://www.linkedin.com/in/ali-tadayoni](https://www.linkedin.com/in/ali-tadayoni)
+📧 Email: [tadayoni.ali.enayat@gmail.com](mailto:tadayoni.ali.enayat@gmail.com)
 
 
 # 🧰 Languages and Tools
@@ -15,11 +20,6 @@ products and interfaces.
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ali-Tadayoni&show_icons=true&theme=one_dark_pro)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 ---
 
