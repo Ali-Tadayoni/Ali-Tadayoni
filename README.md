@@ -6,7 +6,9 @@ My current stack includes React, Next.js, Vue.js, Nuxt.js, and TypeScript.
 I naturally stay curious and continuously improve my craft. Outside of work, I spend time learning new technologies, building side projects, and exploring AI-assisted development tools and workflows.
 
 🌐 Website: [https://alitadayoni.com](https://alitadayoni.com)
+
 💼 LinkedIn: [https://www.linkedin.com/in/ali-tadayoni](https://www.linkedin.com/in/ali-tadayoni)
+
 📧 Email: [tadayoni.ali.enayat@gmail.com](mailto:tadayoni.ali.enayat@gmail.com)
 
 
