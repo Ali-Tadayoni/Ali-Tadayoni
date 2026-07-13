@@ -38,5 +38,5 @@ I naturally stay curious and continuously improve my craft. Outside of work, I s
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
  
-# 📊 GitHub Stats
+# 📊 Stats
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ali-Tadayoni&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
