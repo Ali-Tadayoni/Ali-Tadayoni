@@ -9,7 +9,7 @@ I naturally stay curious and continuously improve my craft. Outside of work, I s
 
 💼 LinkedIn: [https://www.linkedin.com/in/ali-tadayoni](https://www.linkedin.com/in/ali-tadayoni)
 
-📧 Email: [tadayoni.ali.enayat@gmail.com](mailto:tadayoni.ali.enayat@gmail.com)
+📧 Email: [ali.tadayoni.dev@gmail.com](mailto:ali.tadayoni.dev@gmail.com)
 
 
 # 🛠️ Technical Skills
